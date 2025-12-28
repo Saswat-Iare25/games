@@ -13,7 +13,7 @@ The AI uses the Minimax algorithm.
 1. Install Python 3
 2. Download or clone this repository
 3. Run:
-   python script.py
+   python tic-tac-toe.py
 
 ***
 ## rock-paper-scissors-game
@@ -26,4 +26,16 @@ Score tracking.
 2. Download or clone this repository
 3. Run:
    python rock-paper-scissors.py
+
+***
+## number-guess-game
+A simple number guessing game built using python and Tkinter.
+Difficulty levels, timer, dynamic feedback, guess history display, color-coded hints.
+
+## How to run
+1. Install Python 3
+2. Download or clone this repository
+3. Run:
+   python number-guess.py
+
 
